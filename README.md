@@ -10,7 +10,7 @@ This project analyzes my own YouTube channel [**HealthieRecipes24**](https://www
 ---
 
 ## Business Problem
-Despite accumulating **6.3 million total views**, the channel had only **4,789 subscribers** — a conversion rate of 0.06%, which is 20x below the industry benchmark of 1-3%. The question was: **why are people watching but not subscribing?**
+Despite accumulating **6.3 million total views**, the channel had only **2.5K subscribers** — a conversion rate of 0.06%, which is 20x below the industry benchmark of 1-3%. The question was: **why are people watching but not subscribing?**
 
 ---
 
