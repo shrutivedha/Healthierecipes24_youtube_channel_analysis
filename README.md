@@ -1,8 +1,8 @@
-# 📊 YouTube Channel Growth Analysis — [HealthieRecipes24](https://www.youtube.com/@HealthieRecipies24)
+# 📊 YouTube Channel Growth Analysis — [HealthieRecipes24]
 
 
 ## Project Overview
-This project analyzes my own YouTube channel **HealthieRecipes24** using real data exported from YouTube Studio API. The goal was to identify what was stopping the channel from growing and use data to make smarter content decisions.
+This project analyzes my own YouTube channel [**HealthieRecipes24**](https://www.youtube.com/@HealthieRecipies24) using real data exported from YouTube Studio API. The goal was to identify what was stopping the channel from growing and use data to make smarter content decisions.
 
 **Tools Used:** Python, Pandas, Matplotlib, Seaborn, WordCloud, Tableau  
 **Dataset:** 460 videos | 16 metrics | Lifetime data (Dec 2023 – Jan 2026)
